@@ -2,4 +2,4 @@
 for i in range(10):
     print (i)
 
-print ("End of simple program")
+print ("End of simple program: from vscode")
